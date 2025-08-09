@@ -1,0 +1,17 @@
+ipykernel
+jupyterlab
+numpy
+pandas
+matplotlib
+seaborn 
+scikit-learn
+scipy
+statsmodels
+plotly
+requests
+beautifulsoup4
+flask
+django  
+pytest
+
+

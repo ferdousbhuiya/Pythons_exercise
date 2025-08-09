@@ -1,0 +1,4 @@
+2025-07-28 21:02:08,460 - DEBUG - tag: Artist (315) - type: string (2) Tag Location: 22 - Data Location: 26 - value: b'tabassumaka\x00'
+2025-07-28 21:02:15,670 - WARNING - No cookies.txt found; Facebook download may fail if authentication is required.
+2025-07-28 21:02:15,852 - INFO - Starting download for URL: https://www.facebook.com/watch/?v=4192550650958842
+2025-07-28 21:02:17,670 - ERROR - Download failed: [0;31mERROR:[0m You have requested merging of multiple formats but ffmpeg is not installed. Aborting due to --abort-on-error

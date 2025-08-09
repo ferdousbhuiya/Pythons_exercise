@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Virtual Environments
+venv*/
+ENV/
+.env/
+.venv/
+
+# Logs
+*.log
+
+# Private Data
+*.docx
+*.xlsx
+*.csv
+*.tsv
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+*.tmp
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp3
+*.mp4
+*.zip
+*.rar
+*.7z
+
+# Misc
+*.swp
+*.swo
+*.DS_Store
+
+# Ignore requirements.txt only if you don't want to share dependencies
+# requirements.txt
